@@ -1,0 +1,9 @@
+Package: dev.callmeecho.slightlybettertestflight
+Name: SlightlyBetterTestflight
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove Testflight splash screens and orange dots.
+Maintainer: CallMeEcho
+Author: CallMeEcho
+Section: Tweaks
+Depends: mobilesubstrate
